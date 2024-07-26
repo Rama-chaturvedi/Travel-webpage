@@ -1,6 +1,6 @@
 # Travel Website
 
-# Overview
+# Overview 
 This repository contains the frontend for a travel website built using HTML and CSS. It features essential sections such as Home, Contact, and About pages to provide users with   information about travel destinations, services, and company details.
 
 # Sections
@@ -33,28 +33,16 @@ Custom CSS for layout, colors, typography, and interactive elements.
 
 ### Clone the repository: 
     https://github.com/Rama-chaturvedi/Travel-webpage.git
-### Navigate to the project directory:  
-  <link src= "cd travel-website">
-### For view the website in the web browser open 
-  index.html
-Usage
-Modify index.html to update content specific to each section (Home, Contact, About) and customize styles.css to adjust the appearance of the website according to your preferences.
-
-
+### Navigate to the project directory:  `cd travel-website`
+### Open `index.html` in a web browser to view the website
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the `MIT License`. 
 
-Author
-Your Name
+# Acknowledgements
 
-Acknowledgements
-Images sourced from Unsplash
-Icons from Font Awesome
+### Images sourced from  `Unsplash` \
+### Icons from Font  `Awesome`
 
 
 
-
-
-
-https://66a36ee2a77bbd092f2e7534--clever-bombolone-0eda4e.netlify.app/
