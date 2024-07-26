@@ -41,7 +41,7 @@ This project is licensed under the `MIT License`.
 
 # Acknowledgements
 
-### Images sourced from  `Unsplash` \
+### Images sourced from  `Unsplash` 
 ### Icons from Font  `Awesome`
 
 
