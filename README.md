@@ -31,16 +31,18 @@ Custom CSS for layout, colors, typography, and interactive elements.
 ### CSS3
 # Setup Instructions
 
-Clone the repository: git clone https://github.com/your-username/travel-website.git
-Navigate to the project directory: cd travel-website
-Open index.html in a web browser to view the website.
+### Clone the repository: 
+    https://github.com/Rama-chaturvedi/Travel-webpage.git
+### Navigate to the project directory:  
+  <link src= "cd travel-website">
+### For view the website in the web browser open 
+  index.html
 Usage
 Modify index.html to update content specific to each section (Home, Contact, About) and customize styles.css to adjust the appearance of the website according to your preferences.
 
-Contribution
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to fork the repository, make your changes, and submit a pull request.
 
-License
+
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Author
